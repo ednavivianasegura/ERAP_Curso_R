@@ -32,4 +32,4 @@ Curso: TRATAMIENTO DE CONJUNTO DE DATOS CON R
 -	Tablas de frecuencia y análisis categórico.
 -	Distribuciones de probabilidad básicas.
 -	Análisis exploratorio de datos (EDA).
-![image](https://github.com/user-attachments/assets/e8fd9f24-5d5d-4d0a-8b73-4a254a317d64)
+
